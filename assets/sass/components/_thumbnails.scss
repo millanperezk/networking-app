@@ -1,0 +1,15 @@
+/* Component: thumbnail */
+
+// Base
+.thumbnail {
+	border: 1px solid $gray;
+	border-radius: 50%;
+}
+
+.thumbnail_tiny {
+	max-width: 50px;
+}
+
+.thumbnail_normal {
+	max-width: 80px;
+}
